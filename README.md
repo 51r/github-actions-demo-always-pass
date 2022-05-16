@@ -1,2 +1,2 @@
 # github-actions-demo
-Demo of GitHub Actions Always Pass
+This is a sample demo of Github Actions Always Pass
